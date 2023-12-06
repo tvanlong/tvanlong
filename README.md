@@ -1,4 +1,3 @@
-<!-- Trungquandev -->
 <a href="#" target="_blank">
   <img src="svg/dev.gif" width="1200" alt="tvanlong" />
 </a>
