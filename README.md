@@ -31,6 +31,20 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white" alt="Redux Toolkit logo" title="Redux Toolkit" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP logo" title="PHP" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel logo" title="Laravel" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/React_Query-FF4154?logo=react-query&logoColor=white" alt="React Query logo" title="React Query" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Radix_UI-5B6DEE?logo=radix-ui&logoColor=white" alt="Radix UI logo" title="Radix UI" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" alt="Markdown logo" title="Markdown" height="25" /></span>
+&nbsp;
 
 
 <br>
