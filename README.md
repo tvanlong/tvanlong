@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/dev.gif" width="1200" alt="tvanlong" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1200" alt="tvanlong" />
 </a>
 
 <h2 align="center">📎 Technologies and Tools</h2>
@@ -47,14 +47,19 @@
 &nbsp;
 
 <br>
+<h2 align="center">👀 How many times my GitHub profile has been viewed</h2>
 <div align="center">
     <img src="https://count.getloli.com/get/@tvanlong?theme=rule34" />
 </div>
+<br>
 
+<br>
+<h2 align="center">👉 Most Used Languages</h2>
 <br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tvanlong&theme=tokyonight&hide_border=true&hide_title=false&langs_count=5&locale=EN" />
 </div>
+<br>
 
 <br>
 <h2 align="center">🔍 Where to find me</h2>
@@ -67,7 +72,7 @@
   <a href="https://www.linkedin.com/in/v%C4%83n-long-622b3729b/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedin" />
   </a>
-  <a href="https://www.instagram.com/_longzannn703/" target="blank">
+  <a href="https://www.instagram.com/_vanw.logn_/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="instagram" />
   </a>
   <a href="mailto:longvan1173@gmail.com" target="top">
